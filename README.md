@@ -1,3 +1,8 @@
-# Instructions
+# Fraud Detection Thesis
 
-To setup this project, get the datasets from our Google Drive folder and then put them inside a "datasets" folder in this project root directory.
+A repository for ERGCN.
+
+## Setup
+
+- Unzip identity and transaction CSV files from `datasets/train_*.csv.zip`
+- Create a python virtual environment and install project dependencies from `requirements.txt`
